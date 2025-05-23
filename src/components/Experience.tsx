@@ -27,7 +27,8 @@ const experiences = [
     location: 'Remote',
     achievements: [
       'Gained experience in developing end-to-end machine learning systems, from requirement analysis to collecting data and implementing feature engineering techniques.',
-      'Used the Gradient Boosting machine learning model to predict potential customers.'
+      'Processed 100,000+ rows of customer data with 25% improved model accuracy',
+      'Achieved approximately 85% prediction accuracy in identifying potential customers using Gradient Boosting models.'
     ],
     skills: ['Machine Learning', 'Data Analysis', 'Python', 'Feature Engineering'],
     Expereince_Letter_link: "https://drive.google.com/file/d/1KcjboOm4yFS0me2SE7CRqtuMe4zY7K6X/view?usp=sharing"
