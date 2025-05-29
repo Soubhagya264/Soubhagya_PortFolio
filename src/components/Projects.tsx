@@ -12,8 +12,8 @@ const projects = [
     description: 'A SaaS website builder for agency owners, offering drag-and-drop editing for easy website creation and management.',
     category: 'Full Stack',
     technologies: ['NextJs', 'MySQL', 'TypeScript', 'Stripe Connect'],
-    github: 'https://github.com/link-to-buildflow',
-    liveLink: 'https://buildflow.prod',
+    github: 'https://github.com/Soubhagya264/BuildFlow',
+    liveLink: 'https://build-flow-prod.vercel.app/',
     image: '/BuildFlow.png',
     features: [
       'Drag-and-Drop Editor',
